@@ -6,6 +6,9 @@
   ],
   "description": "Facebook Pixel plugin for Angulartics",
   "main": "./dist/angulartics-facebook-pixel.min.js",
+  "dependencies": {
+    "angulartics": "^1.2.1"
+  },
   "keywords": [
     "angularjs",
     "angulartics",
